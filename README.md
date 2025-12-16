@@ -1,4 +1,4 @@
-# Player: Freshbread 🍞
+# Player: Freshbread 🍞 
 
 > *"제어할 수 없는 혼돈 속에서, 언제나 최적의 빌드(Build)를 깎아냅니다."*
 
