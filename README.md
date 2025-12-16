@@ -1,6 +1,8 @@
 # Player: Freshbread 🍞 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I+am+a+System+Developer.;10+Years+Exp.+%7C+Backend+%26+Data;TRPG+Lover+%26+AI+Enthusiast.)](https://git.io/typing-svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freshbread&layout=compact&theme=radical)
 
 > *"제어할 수 없는 혼돈 속에서, 언제나 최적의 빌드(Build)를 깎아냅니다."*
 
