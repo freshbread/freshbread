@@ -40,4 +40,4 @@
     - *보상:* 아들의 미소 (가끔), 다크서클 (확정)
 
 ---
-![Status](https://img.shields.io/badge/Status-Coding-blue?style=flat-square) ![Location](https://img.shields.io/badge/Server-Incheon-red?style=flat-square)# Player: Freshbread 🍞
+![Status](https://img.shields.io/badge/Status-Coding-blue?style=flat-square) ![Location](https://img.shields.io/badge/Server-Incheon-red?style=flat-square)
