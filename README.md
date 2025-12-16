@@ -1,6 +1,6 @@
 # Player: Freshbread 🍞 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=freshbread)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 > *"제어할 수 없는 혼돈 속에서, 언제나 최적의 빌드(Build)를 깎아냅니다."*
 
